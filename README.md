@@ -1,7 +1,6 @@
 # fx-test
 
-Fahad will complete git and git hub today also git hub actions
-
+Fahad will complete git and git hub, git hub actions asap
 dont waste time
 
 you need to get the job asap
