@@ -1,6 +1,6 @@
-# fx-test
+# My DevOps Journey
 
-Fahad will complete git and git hub, git hub actions asap
-dont waste time
-
-you need to get the job asap
+I am learning Linux.
+I am learning Docker.
+I am learning Kubernetes.
+I will become a DevOps Engineer.
