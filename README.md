@@ -12,3 +12,4 @@ I will become a DevOps Engineer.
 - Practising user management
 - Learning Linux networking
 Main branch update: DevOps roadmap
+- Learning Terraform and IaC
